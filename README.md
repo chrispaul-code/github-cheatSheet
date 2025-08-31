@@ -13,3 +13,6 @@ git staus (shows the chanhes we have done in a file )
 git show (shows the file in staging area )
 
 Reverting Back if to previous section
+
+ git reset --hard <SHA>
+ git revert (<sha>)
