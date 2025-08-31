@@ -16,3 +16,7 @@ Reverting Back if to previous section
 
  git reset --hard <SHA>
  git revert (<sha>)
+
+ git remote add origin https://github.com/chrispaul-code/github-cheatSheet.git
+ git branch -M main
+ > git push -u origin main
